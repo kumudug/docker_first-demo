@@ -1,7 +1,9 @@
 * Build
    - `sudo docker build .`
+   - This builds a container
 * Run
    - `sudo docker run -p 3000:3000 [id]`
+   - Then runs a container based on the above image
 * List all running containers
    - `docker ps`
 * Stop running container
