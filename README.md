@@ -1,6 +1,6 @@
 * Build
    - `sudo docker build .`
-   - This builds a container
+   - This builds an image
 * Run
    - `sudo docker run -p 3000:3000 [id]`
    - Then runs a container based on the above image
